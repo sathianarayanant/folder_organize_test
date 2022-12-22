@@ -1,0 +1,58 @@
+{
+    "PROJ": {
+        "202212222356": {
+            "PROJ_SHOT": {
+                "TASK": {
+                    "DPX": [
+                        "PROJ_SHOT_TASK.1001.dpx",
+                        "PROJ_SHOT_TASK.1002.dpx",
+                        "PROJ_SHOT_TASK.1003.dpx",
+                        "PROJ_SHOT_TASK.1004.dpx",
+                        "PROJ_SHOT_TASK.1005.dpx",
+                        "PROJ_SHOT_TASK.1006.dpx",
+                        "PROJ_SHOT_TASK.1007.dpx",
+                        "PROJ_SHOT_TASK.1008.dpx",
+                        "PROJ_SHOT_TASK.1009.dpx",
+                        "PROJ_SHOT_TASK.1010.dpx"
+                    ],
+                    "EXR": [
+                        "PROJ_SHOT_TASK.1001.exr",
+                        "PROJ_SHOT_TASK.1002.exr",
+                        "PROJ_SHOT_TASK.1003.exr",
+                        "PROJ_SHOT_TASK.1004.exr",
+                        "PROJ_SHOT_TASK.1005.exr",
+                        "PROJ_SHOT_TASK.1006.exr",
+                        "PROJ_SHOT_TASK.1007.exr",
+                        "PROJ_SHOT_TASK.1008.exr",
+                        "PROJ_SHOT_TASK.1009.exr",
+                        "PROJ_SHOT_TASK.1010.exr"
+                    ],
+                    "JPG": [
+                        "PROJ_SHOT_TASK.1001.jpg",
+                        "PROJ_SHOT_TASK.1002.jpg",
+                        "PROJ_SHOT_TASK.1003.jpg",
+                        "PROJ_SHOT_TASK.1004.jpg",
+                        "PROJ_SHOT_TASK.1005.jpg",
+                        "PROJ_SHOT_TASK.1006.jpg",
+                        "PROJ_SHOT_TASK.1007.jpg",
+                        "PROJ_SHOT_TASK.1008.jpg",
+                        "PROJ_SHOT_TASK.1009.jpg",
+                        "PROJ_SHOT_TASK.1010.jpg"
+                    ],
+                    "PNG": [
+                        "PROJ_SHOT_TASK.1001.png",
+                        "PROJ_SHOT_TASK.1002.png",
+                        "PROJ_SHOT_TASK.1003.png",
+                        "PROJ_SHOT_TASK.1004.png",
+                        "PROJ_SHOT_TASK.1005.png",
+                        "PROJ_SHOT_TASK.1006.png",
+                        "PROJ_SHOT_TASK.1007.png",
+                        "PROJ_SHOT_TASK.1008.png",
+                        "PROJ_SHOT_TASK.1009.png",
+                        "PROJ_SHOT_TASK.1010.png"
+                    ]
+                }
+            }
+        }
+    }
+}
